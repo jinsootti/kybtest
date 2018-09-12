@@ -1,9 +1,8 @@
 hello habaree
 first git user...
 
-두번쨰 날 연습...
-한줄 더 입력하고 저장
-그녀의 말 한마디
-
+tell my word
+tell your word
+tell his word
 
 
